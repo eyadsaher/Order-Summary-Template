@@ -6,7 +6,7 @@ Welcome to the Order Summary Template project! This project aims to provide a se
 
 Here's a brief overview of what has been accomplished in this project:
 
-- **Professional Design to Functional Implementation**: We have successfully transformed a professional design into a fully functional web template using HTML and CSS.
+- **Professional Design to Functional Implementation**: I have successfully transformed a professional design into a fully functional web template using HTML and CSS.
 
 - **Pixel-Perfect Precision**: Every detail, color, and font has been meticulously implemented to ensure a pixel-perfect representation of the original design. Quality and precision are at the core of this project.
 
@@ -16,4 +16,4 @@ Here's a brief overview of what has been accomplished in this project:
 
 To explore the Order Summary Template, simply visit the live site by clicking the link provided above. You can interact with the template to get a feel for its functionality and responsiveness.
 
-Thank you for checking out this project, and we hope you find it both visually appealing and user-friendly. If you have any questions or feedback, please don't hesitate to reach out. Enjoy using the Order Summary Template!
+Thank you for checking out this project, and I hope you find it both visually appealing and user-friendly. If you have any questions or feedback, please don't hesitate to reach out. Enjoy using the Order Summary Template!
